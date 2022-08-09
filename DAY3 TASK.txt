@@ -1,0 +1,27 @@
+RESUME IN JSON FORMAT:
+
+
+ INFORMATION={
+       "NAME": "KAVIN ",
+       "DOB":  "16-JULY-2003",
+       "GENDER": "MALE",
+       };
+
+ CONTACT ME AT={
+       "MOBILE NUMBER":"XXXXXXXXXX",
+       "EMAIL":"XXX@GMAIL.COM",
+       "LINKEDIN": "XYXY"
+};
+
+EDUCATION DETAILS={
+       "DEGREE": "B.E",
+       "DEPT" : "EIE",
+       "YEAR": "2NDYEAR",
+       "COLLEGE": "SRMUNIVERSITY"
+};
+
+ SKILLS={
+      "CODING": "BASIC C"
+};
+    
+     
